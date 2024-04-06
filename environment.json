@@ -1,0 +1,30 @@
+
+{
+    "headers":"application/json",
+    "test": {
+        "api-url":"https://todo.ly/",
+        "ui-url":"https://todo.ly/",
+        "users": {
+            "admin": {
+                "token":"",
+                "username":"",
+                "password":""
+            },
+            "member": {
+                "token": "",
+                "username": "",
+                "password": ""
+              }
+            }
+    },
+    "staging": {
+        "api-url":"",
+        "users": {
+            "admin": {
+                "key":"",
+                "token":""
+            }
+        }
+    }
+
+}
